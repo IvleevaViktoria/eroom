@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Bekin\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\student\Desktop\Bekin\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\student\Desktop\Bekin\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Bekin\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Bekin\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\student\Desktop\Bekin\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
